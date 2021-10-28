@@ -3,6 +3,8 @@ Make Folder Structures with Python
 
 A tool I built for work that speeds up folder creation for engaagements.
 
+Preliminary: "pip install PyQt5"
+
 Process: Input "top folders" & "bottom folders", seperated by commas, then press the "Destination" button to select where you want the folders to be made, then hit start, the script will then create all the top folders and populate each folder with the bottom folders that are selected.
 
 Made with PyQt5
